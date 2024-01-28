@@ -22,3 +22,7 @@ p {
 ul, ol {
     font-size: 16pt;
 }
+
+ul {
+    font-style: italic;
+}
